@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-tak-19b7611b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-tak-19b7611b7" height="30" width="40" /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/452d4919-ac74-4e81-967f-45cc8945df52" target="blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/><a/>
 <a href="https://www.codechef.com/users/tony87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tony87" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shubham_tak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubham_tak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhamt81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamt81" height="30" width="40" /></a>
